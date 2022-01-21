@@ -91,7 +91,7 @@ importlib-metadata==0.17
 importlib-resources==1.0.2
 imutils==0.5.3
 ipykernel==5.1.1
-ipython==7.6.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.5.0
 isort==4.3.21
